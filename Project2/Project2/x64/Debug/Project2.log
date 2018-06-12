@@ -1,0 +1,8 @@
+﻿  SourceSFML.cpp
+c:\users\micktorv2\source\repos\project2\project2\sourcesfml.cpp(242): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\micktorv2\source\repos\project2\project2\sourcesfml.cpp(451): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\micktorv2\source\repos\project2\project2\sourcesfml.cpp(462): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\micktorv2\source\repos\project2\project2\sourcesfml.cpp(530): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\micktorv2\source\repos\project2\project2\sourcesfml.cpp(548): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\micktorv2\source\repos\project2\project2\sourcesfml.cpp(238): warning C4715: NUM: значение возвращается не при всех путях выполнения
+  Project2.vcxproj -> C:\Users\MicktorV2\source\repos\Project2\x64\Debug\Project2.exe
